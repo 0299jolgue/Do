@@ -1,0 +1,12 @@
+{
+  "name": "boostmaker-brawl-stars",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Gerador estático de vídeos e imagens de rank para Brawl Stars",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
